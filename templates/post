@@ -3,17 +3,18 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="Post 1 Headline">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Nous contacter</title>
+    <title>Post Template</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
-<link rel="stylesheet" href="Nous-contacter.css" media="screen">
+<link rel="stylesheet" href="Post-Template.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.5.1, nicepage.com">
-    <link rel="icon" href="images/favicon1.png">
+    <link rel="icon" href="images/favicon4.png">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    
     
     <script type="application/ld+json">{
 		"@context": "http://schema.org",
@@ -22,7 +23,7 @@
 		"url": "index.html",
 		"sameAs": []
 }</script>
-    <meta property="og:title" content="Nous contacter">
+    <meta property="og:title" content="Post Template">
     <meta property="og:type" content="website">
     <meta name="theme-color" content="#465775">
     <link rel="canonical" href="index.html">
@@ -39,14 +40,14 @@
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-grey-90" href="Tim-et-Bastien.html" style="padding: 10px 0px;">Notre histoire</a>
+            <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-base u-text-grey-90 u-text-hover-grey-90" href="tim-et-bastien.html" style="padding: 10px 0px;">notre histoire</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Tim-et-Bastien.html" style="padding: 10px 0px;">Notre histoire</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="tim-et-bastien.html" style="padding: 10px 0px;">notre histoire</a>
 </li></ul>
               </div>
             </div>
@@ -54,7 +55,25 @@
           </div>
         </nav>
         <img src="images/logosimple1.png" alt="" class="u-image u-image-default u-image-1" data-image-width="1335" data-image-height="700">
-      </div></header> 
+      </div></header>
+    <section class="u-align-center u-clearfix u-section-1" id="sec-e87e">
+      <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1"><!--post_details--><!--post_details_options_json--><!--{"source":""}--><!--/post_details_options_json--><!--blog_post-->
+        <div class="u-container-style u-expanded-width u-post-details u-post-details-1">
+          <div class="u-container-layout u-valign-middle u-container-layout-1"><!--blog_post_image-->
+            <img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-1" src="images/3.jpeg"><!--/blog_post_image--><!--blog_post_header-->
+            <h2 class="u-blog-control u-text u-text-1">
+              <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 1 Headline<!--/blog_post_header_content--></a>
+            </h2><!--/blog_post_header--><!--blog_post_metadata-->
+            <div class="u-blog-control u-metadata u-metadata-1"><!--blog_post_metadata_date-->
+              <span class="u-meta-date u-meta-icon"><!--blog_post_metadata_date_content-->Sat Jan 30 2021<!--/blog_post_metadata_date_content--></span><!--/blog_post_metadata_date--><!--blog_post_metadata_category-->
+              <span class="u-meta-category u-meta-icon"><!--blog_post_metadata_category_content-->Category<!--/blog_post_metadata_category_content--></span><!--/blog_post_metadata_category--><!--blog_post_metadata_comments-->
+              <span class="u-meta-comments u-meta-icon"><!--blog_post_metadata_comments_content-->Comments (0)<!--/blog_post_metadata_comments_content--></span><!--/blog_post_metadata_comments-->
+            </div><!--/blog_post_metadata--><!--blog_post_content-->
+            <div class="u-align-justify u-blog-control u-post-content u-text u-text-2"><!--blog_post_content_content-->SExemple de petit texte . Lorem ipsum dolor sit amet.<!--/blog_post_content_content--></div><!--/blog_post_content-->
+          </div>
+        </div><!--/blog_post--><!--/post_details-->
+      </div>
+    </section>
     
     
     <footer class="u-align-left u-clearfix u-footer u-grey-80 u-footer" id="sec-d37f"><div class="u-clearfix u-sheet u-sheet-1">
