@@ -309,7 +309,7 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  overflow: hidden;
+  overflow: visible;
   width: 100%;
   height: auto;
   margin-right: 0px;
@@ -2087,7 +2087,7 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  overflow: hidden;
+  overflow: visible;
   width: 100%;
   height: 100vh;
   max-width: 100vw;
@@ -2228,7 +2228,7 @@ a {
 
 .qui-sommes-nous {
   display: block;
-  overflow: hidden;
+  overflow: visible;
   height: 100vh;
   padding-top: 10vh;
   background-color: #fff;
