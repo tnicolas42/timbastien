@@ -2540,6 +2540,9 @@ a {
   background-color: #fff;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+  -webkit-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
 }
 
 .benefits-icon {
