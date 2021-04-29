@@ -2769,7 +2769,7 @@ a {
   }
 
   .body {
-    overflow: hidden;
+    overflow: visible;
   }
 
   .big-texts-dv--2 {
