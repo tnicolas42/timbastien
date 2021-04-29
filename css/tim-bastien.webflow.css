@@ -2805,6 +2805,10 @@ a {
 }
 
 @media screen and (min-width: 1920px) {
+  .la-route {
+    overflow: hidden;
+  }
+
   .image-17 {
     -o-object-fit: scale-down;
     object-fit: scale-down;
