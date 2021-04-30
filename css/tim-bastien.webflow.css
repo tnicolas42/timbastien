@@ -3392,6 +3392,7 @@ a {
   }
 
   .text-block-6 {
+    color: #fff;
     font-size: 4vw;
   }
 
@@ -3585,6 +3586,8 @@ a {
     width: 100vw;
     height: 100vh;
     max-width: none;
+    -o-object-fit: fill;
+    object-fit: fill;
   }
 
   .image-25 {
@@ -3651,14 +3654,42 @@ a {
     font-weight: 700;
   }
 
+  .titre.centre {
+    margin-top: 12px;
+    color: #fff;
+  }
+
+  .rejoignez-l-quipe {
+    border-radius: 20px;
+    background-color: #00810d;
+  }
+
   .form {
-    width: 60vw;
-    margin-left: -21px;
+    width: 70vw;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .submit-button {
+    margin-right: auto;
+    margin-left: auto;
     padding: 2vw;
+    border: 1px solid #000;
+    border-radius: 13px;
+    background-color: #333;
     font-size: 4vw;
+  }
+
+  .text-field {
+    border-radius: 13px;
+  }
+
+  .text-field-2 {
+    border-radius: 13px;
+  }
+
+  .textarea {
+    border-radius: 13px;
   }
 
   .div-card-group {
@@ -3725,6 +3756,10 @@ a {
   .image-38 {
     position: absolute;
     top: 2%;
+  }
+
+  .div-block-44 {
+    padding-top: 6px;
   }
 }
 
