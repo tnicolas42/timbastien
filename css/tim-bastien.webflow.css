@@ -3395,6 +3395,8 @@ a {
   .image-29 {
     position: relative;
     left: -33%;
+    top: auto;
+    bottom: 0vh;
     width: 130%;
     max-width: none;
   }
