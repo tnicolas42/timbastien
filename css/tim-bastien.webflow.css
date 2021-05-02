@@ -3533,6 +3533,10 @@ a {
     font-weight: 700;
   }
 
+  .body {
+    max-width: none;
+  }
+
   .div-block-13 {
     height: auto;
     padding-top: 5vh;
