@@ -3682,7 +3682,7 @@ a {
   }
 
   .text-block-8 {
-    margin-top: -6vh;
+    margin-top: 0vh;
     margin-left: 36vw;
     padding-bottom: 0vh;
     font-size: 6vw;
@@ -3691,6 +3691,8 @@ a {
 
   .div-block-17 {
     position: static;
+    margin-top: 0px;
+    padding-top: 0vh;
     -webkit-transform: translate3d(0px, 0px, 19px);
     transform: translate3d(0px, 0px, 19px);
   }
