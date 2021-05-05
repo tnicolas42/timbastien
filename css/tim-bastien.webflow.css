@@ -854,6 +854,8 @@ a {
   display: block;
   height: 200vh;
   margin-top: 25vh;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
 }
 
 .image-12 {
@@ -879,12 +881,16 @@ a {
   position: sticky;
   top: 34.2vh;
   padding-top: 0vh;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
 }
 
 .div-block-18 {
   position: -webkit-sticky;
   position: sticky;
   top: 45.1vh;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
 }
 
 .bas-de-page {
@@ -2417,6 +2423,11 @@ a {
   text-align: center;
 }
 
+.rejoignez-l-quipe {
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
 .ils-nous-soutiennent {
   display: -webkit-box;
   display: -webkit-flex;
@@ -3166,9 +3177,9 @@ a {
   }
 
   .image-25 {
-    width: 60vw;
-    margin-left: 24vw;
-    padding-top: 11vh;
+    width: 50vw;
+    margin-left: 0vw;
+    padding-top: 0vh;
   }
 
   .image-26.gauche {
@@ -3257,6 +3268,22 @@ a {
   .benefits-card-wrapper {
     width: 20vw;
     height: 20vw;
+  }
+
+  .benefits-card-back-side {
+    -webkit-transform: rotate(0deg) rotateX(0deg) rotateY(180deg) rotateZ(0deg);
+    transform: rotate(0deg) rotateX(0deg) rotateY(180deg) rotateZ(0deg);
+  }
+
+  .paragraph-3.smaller-p {
+    font-size: 33px;
+  }
+
+  .benefits-front-side {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
   }
 
   .text-block-21 {
@@ -3512,6 +3539,7 @@ a {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
+    overflow: hidden;
   }
 
   .image-7._11 {
@@ -3538,12 +3566,15 @@ a {
   }
 
   .div-block-13 {
+    position: static;
+    top: 6.4vh;
     height: auto;
-    padding-top: 5vh;
+    padding-top: 0vh;
   }
 
   .text-block-3 {
     position: static;
+    padding-top: 5vh;
     padding-bottom: 5vh;
     font-size: 9vw;
     line-height: 10vh;
@@ -3567,6 +3598,10 @@ a {
   }
 
   .nos-objectifs {
+    height: auto;
+  }
+
+  .nos-objectifs.panel {
     height: auto;
   }
 
@@ -3634,7 +3669,9 @@ a {
 
   .ou._17 {
     height: auto;
-    margin-top: 10vh;
+    margin-top: -32vh;
+    -webkit-transform: translate3d(0px, 0px, 5px);
+    transform: translate3d(0px, 0px, 5px);
   }
 
   .image-12 {
@@ -3645,19 +3682,23 @@ a {
   }
 
   .text-block-8 {
-    margin-top: 0vh;
-    margin-left: 0vw;
+    margin-top: -6vh;
+    margin-left: 36vw;
     padding-bottom: 0vh;
-    font-size: 8vw;
-    line-height: 8vw;
+    font-size: 6vw;
+    line-height: 6vw;
   }
 
   .div-block-17 {
     position: static;
+    -webkit-transform: translate3d(0px, 0px, 19px);
+    transform: translate3d(0px, 0px, 19px);
   }
 
   .div-block-18 {
     position: static;
+    -webkit-transform: translate3d(0px, 0px, 5px);
+    transform: translate3d(0px, 0px, 5px);
   }
 
   .text-block-9 {
@@ -3835,10 +3876,11 @@ a {
   }
 
   .image-25 {
-    left: -3.8vw;
+    left: 10.1vw;
     top: 12.7vh;
     display: inline-block;
     width: 85vw;
+    padding-top: 0px;
   }
 
   .image-26.gauche {
@@ -3963,6 +4005,8 @@ a {
   .rejoignez-l-quipe {
     border-radius: 20px;
     background-color: #00810d;
+    -webkit-transform: translate3d(0px, 0px, 10px);
+    transform: translate3d(0px, 0px, 10px);
   }
 
   .form {
@@ -4075,6 +4119,7 @@ a {
   .image-38 {
     position: absolute;
     top: 2%;
+    width: 80vw;
   }
 
   .div-block-44 {
