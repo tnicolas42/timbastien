@@ -2623,13 +2623,18 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 15px;
-  background-color: #00810d;
+  background-color: #fff;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  -webkit-transform: rotate(0deg) rotateX(0deg) rotateY(180deg) rotateZ(0deg);
-  transform: rotate(0deg) rotateX(0deg) rotateY(180deg) rotateZ(0deg);
+  -webkit-transform: rotateX(0deg) rotateY(-180deg) rotateZ(0deg) rotate(0deg);
+  transform: rotateX(0deg) rotateY(-180deg) rotateZ(0deg) rotate(0deg);
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
+}
+
+.benefits-card-back-side.blanc {
+  padding: 0px;
+  background-color: #fff;
 }
 
 .paragraph-3 {
@@ -2650,8 +2655,11 @@ a {
   padding-left: 0px;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
+  font-family: Verdana, Geneva, sans-serif;
+  color: #000;
   font-size: 16px;
-  line-height: 33px;
+  line-height: 18px;
+  font-weight: 700;
   text-align: center;
 }
 
@@ -2971,6 +2979,27 @@ a {
   padding-bottom: 32px;
   background-color: transparent;
   text-decoration: underline;
+}
+
+.image-43 {
+  width: 100%;
+  max-width: 400%;
+}
+
+.link-block-3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 @media screen and (min-width: 1440px) {
