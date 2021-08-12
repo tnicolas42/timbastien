@@ -2946,6 +2946,7 @@ a {
 .div-block-43._44 {
   left: 40%;
   top: 96%;
+  display: none;
   text-decoration: none;
   cursor: auto;
 }
@@ -3049,6 +3050,20 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+}
+
+.button {
+  position: absolute;
+  left: 40%;
+  top: 934%;
+  padding: 27px;
+  background-color: #ffdf2a;
+  font-weight: 700;
+}
+
+.text-span-4 {
+  font-family: Verdana, Geneva, sans-serif;
+  color: #000;
 }
 
 @media screen and (min-width: 1440px) {
