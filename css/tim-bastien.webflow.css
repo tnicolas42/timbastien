@@ -3229,6 +3229,8 @@ a {
 
 .nav-link-2 {
   display: block;
+  padding-right: 1px;
+  padding-left: 28px;
 }
 
 .nav-link-2:hover {
@@ -3369,7 +3371,7 @@ a {
 }
 
 .adresse {
-  margin: 63px 16px 16px;
+  margin: 19px 16px 38px;
   font-size: 25px;
   line-height: 30px;
   font-weight: 400;
@@ -3772,6 +3774,43 @@ a {
   display: flex;
   margin-top: 62px;
   margin-bottom: 1px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.paragraph-7 {
+  padding: 20px;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.paragraph-7.texte-recrutement {
+  margin-bottom: -52px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.section-21 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -4698,6 +4737,10 @@ a {
     top: 94%;
   }
 
+  .adresse {
+    margin-top: 9px;
+  }
+
   .cookie.potimarron {
     background-image: url('../images/Tranches-de-potimarron.png');
   }
@@ -4935,6 +4978,10 @@ a {
 
   .nav-link-2 {
     font-size: 20px;
+  }
+
+  .adresse {
+    margin-top: 12px;
   }
 
   .container-11 {
@@ -5694,7 +5741,7 @@ a {
   }
 
   .adresse {
-    margin-top: 78px;
+    margin-top: 10px;
     margin-bottom: 14px;
     font-size: 18px;
     line-height: 20px;
@@ -5779,6 +5826,15 @@ a {
     grid-template-columns: 1fr 1fr;
     -ms-grid-rows: auto auto;
     grid-template-rows: auto auto;
+  }
+
+  .paragraph-7.texte-recrutement {
+    padding-bottom: 0px;
+  }
+
+  .section-21 {
+    margin-bottom: 0px;
+    padding-bottom: 75px;
   }
 }
 
