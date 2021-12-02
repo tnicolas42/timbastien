@@ -3083,10 +3083,14 @@ a {
   position: static;
   left: 36%;
   top: 78%;
-  display: block;
+  display: none;
   padding: 27px;
   background-color: #ffdf2a;
   font-weight: 700;
+}
+
+.button.faire-un-don {
+  display: block;
 }
 
 .text-span-4 {
@@ -3799,7 +3803,7 @@ a {
 
 .paragraph-7.texte-recrutement {
   margin-bottom: -52px;
-  padding-top: 0px;
+  padding-top: 8px;
   padding-bottom: 0px;
   font-size: 20px;
   font-weight: 400;
@@ -3979,6 +3983,10 @@ a {
 
   .image-49 {
     top: 91%;
+  }
+
+  .paragraph-7.texte-recrutement {
+    font-size: 30px;
   }
 }
 
@@ -4542,6 +4550,16 @@ a {
     left: 74%;
     top: 15%;
     max-width: 20%;
+  }
+
+  .paragraph-7 {
+    font-size: 50px;
+    line-height: 50px;
+  }
+
+  .paragraph-7.texte-recrutement {
+    font-size: 40px;
+    line-height: 40px;
   }
 }
 
