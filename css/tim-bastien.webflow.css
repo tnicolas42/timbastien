@@ -3728,6 +3728,18 @@ a {
   background-image: url('../images/IMG_1024.jpg');
 }
 
+.cookie.financier {
+  background-image: url('../images/Financiers.png');
+}
+
+.cookie.legumes-rotis {
+  background-image: url('../images/Légumes-rotis-au-oignons-marinés-et-chèvre.png');
+}
+
+.cookie.legumes-rotis-piment {
+  background-image: url('../images/Légumes-rotis-sauce-au-piment-et-quinoa.png');
+}
+
 .link-block-6 {
   background-image: url('../images/horloge.png');
   background-position: 50% 50%;
@@ -3769,6 +3781,10 @@ a {
 
 .text-block-23.wait {
   background-color: transparent;
+}
+
+.container-11 {
+  margin-bottom: 38px;
 }
 
 .section-20 {
@@ -5996,6 +6012,45 @@ a {
   grid-row-end: span 1;
 }
 
+#w-node-_9c71eb77-b4d4-b77d-53c8-57072daf8cf6-dcffff1d {
+  -ms-grid-row-align: auto;
+  align-self: auto;
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_38b00b78-4fd6-0fa7-6609-45c642b4d7ed-dcffff1d {
+  -ms-grid-row-align: auto;
+  align-self: auto;
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-f3e892cf-6791-637a-3a9f-0c9d8805ba26-dcffff1d {
+  -ms-grid-row-align: auto;
+  align-self: auto;
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
 #w-node-_37d95309-b327-fc10-6049-a495532a8e71-dcffff1d {
   -ms-grid-row-align: auto;
   align-self: auto;
@@ -6170,6 +6225,45 @@ a {
   }
 
   #w-node-f1453271-ae4f-5d95-f05f-b6b3ce2512e4-dcffff1d {
+    -ms-grid-row-align: auto;
+    align-self: auto;
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+  }
+
+  #w-node-_9c71eb77-b4d4-b77d-53c8-57072daf8cf6-dcffff1d {
+    -ms-grid-row-align: auto;
+    align-self: auto;
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+  }
+
+  #w-node-_38b00b78-4fd6-0fa7-6609-45c642b4d7ed-dcffff1d {
+    -ms-grid-row-align: auto;
+    align-self: auto;
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+  }
+
+  #w-node-f3e892cf-6791-637a-3a9f-0c9d8805ba26-dcffff1d {
     -ms-grid-row-align: auto;
     align-self: auto;
     -ms-grid-column: span 1;
